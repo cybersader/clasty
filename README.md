@@ -109,3 +109,7 @@ This means you can use, modify, and distribute this software freely, but if you 
 **Commercial licensing** is available for organizations that need different terms. Contact the maintainer for details.
 
 **Contributing** requires signing our [Contributor License Agreement](CLA.md), which allows the project to be offered under dual licensing.
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or sponsored by [Obsidian](https://obsidian.md/) or Dynalist Inc. "Obsidian" is a trademark of Dynalist Inc. This is an independent, community-driven project that builds infrastructure around the Obsidian application.
