@@ -6,6 +6,7 @@ on:
     paths:
       - 'docs-site/**'
       - 'knowledge-base/**'
+      - '.github/workflows/deploy-docs.yml'
   workflow_dispatch:
 
 permissions:
@@ -37,6 +38,10 @@ jobs:
       - name: Install dependencies
         working-directory: docs-site
         run: bun install
+
+      - name: Install Playwright (for Mermaid rendering)
+        working-directory: docs-site
+        run: npx playwright install chromium --with-deps
 
       - name: Build docs
         working-directory: docs-site
