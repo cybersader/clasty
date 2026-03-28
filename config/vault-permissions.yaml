@@ -1,0 +1,52 @@
+# Vault Permissions Configuration
+#
+# Maps user groups to vault access.
+# RBAC is at the vault level - users either have access or they don't.
+
+vaults:
+  # Demo vault - accessible to everyone
+  - name: demo
+    path: /vaults/demo
+    description: Demo vault for testing sync
+    allowed_groups:
+      - all-users
+
+  # Example: Engineering team vault
+  # - name: engineering
+  #   path: /vaults/engineering
+  #   smb: //fileserver.corp/engineering  # Optional SMB path
+  #   description: Engineering team knowledge base
+  #   allowed_groups:
+  #     - engineering
+  #     - devops
+  #     - platform
+
+  # Example: Finance vault (restricted)
+  # - name: finance
+  #   path: /vaults/finance
+  #   description: Financial documentation
+  #   allowed_groups:
+  #     - finance
+  #     - executives
+
+  # Example: Company-wide wiki
+  # - name: wiki
+  #   path: /vaults/company-wiki
+  #   description: Company knowledge base
+  #   allowed_groups:
+  #     - all-employees
+
+# Group definitions (in production, these come from LDAP/AD)
+groups:
+  all-users:
+    description: All authenticated users
+    members: ["*"]  # Wildcard - matches any user
+
+  # Example groups from AD
+  # engineering:
+  #   description: Engineering department
+  #   ad_group: CN=Engineering,OU=Groups,DC=corp,DC=example,DC=com
+  #
+  # executives:
+  #   description: Executive team
+  #   ad_group: CN=Executives,OU=Groups,DC=corp,DC=example,DC=com

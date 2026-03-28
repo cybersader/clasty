@@ -1,0 +1,44 @@
+# === Secrets & Environment ===
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+*.p12
+*.pfx
+credentials*
+secrets*
+*.secret
+token*
+
+# === Obsidian ===
+.obsidian/
+.trash/
+
+# === Node ===
+node_modules/
+*.lockb
+bun.lockb
+package-lock.json
+
+# === Build artifacts ===
+dist/
+build/
+*.tgz
+
+# === OS ===
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# === Docker runtime ===
+*.log
+docker-volumes/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

@@ -1,0 +1,10 @@
+{
+  "id": "crdt-sync",
+  "name": "CRDT Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Conflict-free sync for shared vaults using CRDT. Works with SMB shares, Dropbox, and other file sync methods.",
+  "author": "obsidian-in-the-browser",
+  "authorUrl": "https://github.com/obsidian-in-the-browser",
+  "isDesktopOnly": true
+}
