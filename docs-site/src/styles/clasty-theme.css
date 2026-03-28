@@ -141,3 +141,16 @@ starlight-toc a[aria-current='true'] {
 starlight-menu-button button[aria-expanded='true'] {
 	color: var(--sl-color-accent);
 }
+
+/* Sidebar link text — ensure readable contrast */
+nav.sidebar a {
+	color: var(--sl-color-gray-2);
+}
+nav.sidebar a:hover {
+	color: var(--sl-color-white);
+}
+/* Sidebar group labels */
+nav.sidebar summary,
+nav.sidebar .top-level > li > details > summary {
+	color: var(--sl-color-white);
+}
