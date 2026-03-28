@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightObsidian, { obsidianSidebarGroup } from 'starlight-obsidian';
 import remarkMermaidjs from 'remark-mermaidjs';
+import wikiLinkPlugin from '@flowershow/remark-wiki-link';
 // TODO: Re-enable once starlight-theme-obsidian resolves Astro v6 / Zod v4 compat
 // import starlightThemeObsidian from 'starlight-theme-obsidian';
 
@@ -9,7 +10,14 @@ export default defineConfig({
   site: 'https://cybersader.github.io/obsidian-in-enterprise',
   base: '/obsidian-in-enterprise',
   markdown: {
-    remarkPlugins: [remarkMermaidjs],
+    remarkPlugins: [
+      remarkMermaidjs,
+      [wikiLinkPlugin, {
+        pathFormat: 'obsidian-short',
+        wikiLinkClassName: 'internal-link',
+        hrefTemplate: (permalink) => `/obsidian-in-enterprise/${permalink}/`,
+      }],
+    ],
   },
   integrations: [
     starlight({
