@@ -120,10 +120,10 @@ a:where(:not([class])):hover {
 	color: var(--sl-color-accent);
 }
 
-/* Sidebar active state */
+/* Sidebar active state — white text on accent background */
 [aria-current='page'],
 [data-current='true'] {
-	color: var(--sl-color-accent) !important;
+	color: var(--sl-color-white) !important;
 	border-color: var(--sl-color-accent) !important;
 }
 
