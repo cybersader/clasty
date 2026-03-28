@@ -94,7 +94,9 @@ This gives us the Clasty color palette without waiting on the theme plugin.
 
 ## Decision
 
-**DECISION-PENDING-005: Docs Theme Approach**
-- **Option A:** Wait for upstream fix, use default Starlight theme meanwhile
-- **Option B:** Apply custom CSS now with Clasty brand colors, add graph plugin when fixed
-- **Recommendation:** Option B — brand consistency matters more than the graph view right now
+**DECISION-005: Docs Theme Approach — ACCEPTED**
+- **Choice:** Custom CSS theme with Clasty brand palette (Option B)
+- **Rationale:** Zero dependency risk, self-owned, resilient to upstream breakage. Brand consistency now > graph view later.
+- **Implementation:** `docs-site/src/styles/clasty-theme.css` — overrides Starlight CSS variables for both dark and light mode
+- **Graph view:** Kept as future goal (`starlight-site-graph` stays in package.json but not wired into config)
+- **Theme plugin:** `starlight-theme-obsidian` removed from dependencies

@@ -3,8 +3,6 @@ import starlight from '@astrojs/starlight';
 import starlightObsidian, { obsidianSidebarGroup } from 'starlight-obsidian';
 import remarkMermaidjs from 'remark-mermaidjs';
 import wikiLinkPlugin from '@flowershow/remark-wiki-link';
-// TODO: Re-enable once starlight-theme-obsidian resolves Astro v6 / Zod v4 compat
-// import starlightThemeObsidian from 'starlight-theme-obsidian';
 
 export default defineConfig({
   site: 'https://cybersader.github.io/clasty',
@@ -23,6 +21,7 @@ export default defineConfig({
     starlight({
       title: 'Clasty',
       description: 'Browser-based Obsidian with CRDT sync and enterprise access control',
+      customCss: ['./src/styles/clasty-theme.css'],
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/cybersader/clasty' },
       ],
@@ -40,8 +39,6 @@ export default defineConfig({
           },
           copyFrontmatter: 'all',
         }),
-        // TODO: Re-enable Obsidian theme once Astro v6 compat resolved
-        // starlightThemeObsidian(),
       ],
       sidebar: [
         {
