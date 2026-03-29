@@ -237,6 +237,34 @@ The crystal body on both halves: deep obsidian black (#0c0c0c) and dark stone (#
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
 ```
 
+---
+
+### In-Session Follow-Up Prompts (for iterating within same Nana Banana session)
+
+Start with the **Shape B** prompt above to establish the base shield. Then use these shorter follow-ups to nudge toward each variation without losing the established style.
+
+#### Follow-up → B2 (Asymmetric + Bold Lava River)
+```
+Same obsidian shield but make it asymmetric — the left shoulder should be slightly higher and broader than the right. Add a rough notch on the right edge where a chunk has broken away, giving it a battle-worn look. Make the main lava crack much wider and bolder — not a thin fracture line but a thick flowing lava channel running from the upper-left down through the center curving to the lower-right. It should be wide enough to be recognizable as a standalone mark. Add one thinner tributary crack branching off to the right. The lava should feel like a bold brushstroke through the stone.
+```
+
+#### Follow-up → B3 (Single Diagonal Slash)
+```
+Same obsidian shield but simplify to just one single dramatic lava crack — a bold diagonal slash running from upper-right to lower-left across the entire shield. Make it wide and unmistakable, like a sword cut or lightning bolt through the stone. This one slash is the defining feature. No other cracks. The slash should widen slightly in the middle. Make it glow intensely — bright magma at the core with ember orange bleeding outward. The shield itself should be slightly asymmetric — left side more intact, right side has more rough broken texture along the edge.
+```
+
+#### Follow-up → B4 (Y-Shaped Lava System)
+```
+Same obsidian shield but change the crack pattern to a bold Y-shape — one main trunk rising from the lower center of the shield, splitting into two branches that spread toward the upper-left and upper-right shoulders. The trunk and branches should be wide and bold like lava rivers, not thin fracture lines. Think tree roots or a river delta viewed from above. The Y-pattern should be instantly recognizable even as a flat silhouette. Add a rough broken edge on the right shoulder. Intense magma glow with bright amber where the branches split.
+```
+
+#### Follow-up → B5 (Horizontal Rift / Splitting Apart)
+```
+Same obsidian shield but it's splitting in half horizontally. A wide horizontal rift runs across the middle — the top half has shifted very slightly up and left, the bottom half slightly down and right. They're still mostly aligned but visibly separating. The gap between them is a bold wide channel of exposed magma glowing intensely. Add one secondary thinner crack running vertically through the upper half. The horizontal rift should be bold enough to serve as a standalone icon — a bar of fire cutting through a dark shape.
+```
+
+---
+
 #### Shape C: Hexagonal Gem (Square, balanced)
 
 A roughly hexagonal gem shape — like a cut stone viewed from above. Balanced, fits perfectly in a square, no ambiguous orientation.
