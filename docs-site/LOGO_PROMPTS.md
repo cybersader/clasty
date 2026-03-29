@@ -143,108 +143,144 @@ Dark charcoal background. Centered: the shard logo mark above the word "clasty" 
 
 ## Version 7: Crystal Treatment System (Recraft)
 
-Follows the same approach as the [obsidian-daily-notes-ng logo set](https://github.com/cybersader/obsidian-daily-notes-ng/tree/main/assets/logo): one canonical silhouette, rendered in multiple treatments. Every variant uses the exact same base shape so they're interchangeable across contexts.
+Follows the same approach as the [obsidian-daily-notes-ng logo set](https://github.com/cybersader/obsidian-daily-notes-ng/tree/main/assets/logo): one canonical silhouette, rendered in multiple treatments. Every prompt below is **fully self-contained** — copy-paste directly into Recraft or any image generator.
 
-### Base Silhouette (reuse this description in every prompt below)
+---
 
-```
-BASE SHAPE: A volcanic obsidian shard — an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. The shard is slightly tilted clockwise (~10 degrees). It has two visible crack lines running diagonally through it — one from upper-left to lower-right, one shorter crossing it. The top edge is jagged (broken), the bottom edges are slightly smoother. The proportions are roughly 3:4 (wider than tall). Think of it as a chunk of obsidian that was just fractured from a larger piece.
-```
+### Treatment 1: Full Fidelity 3D Crystal (Hero Version)
 
-### Treatment 1: Crystal / Gem Textured (Hero Version)
-
-The flagship version — like the daily-notes-ng crystal calendar but volcanic.
+The flagship logo. Faceted volcanic crystal gemstone with internal magma glow. Generate this at highest resolution.
 
 ```
-[BASE SHAPE] rendered as a polished volcanic crystal gemstone. The surface has faceted geometric planes catching light at different angles — some faces are deep obsidian black (#0c0c0c), others reflect dark stone (#1c1917) and charcoal (#292524). The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within, with subtle ember (#ef6c35) highlights along crack edges. The crystal has subtle surface reflections and depth — it looks like a real carved volcanic glass gem. Slight purple-to-red gradient in the deepest shadows. Rich, dimensional, premium feel. Transparent or white background. High detail, suitable for 512px+ rendering.
+A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The surface has faceted geometric planes catching light at different angles like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). The facets have subtle specular highlights and reflections — it looks like real carved volcanic glass, smooth and glassy on each face.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within the crystal, as if molten lava is visible through fractures in the stone. Subtle ember orange (#ef6c35) highlights bloom along the crack edges. The glow illuminates nearby facets with a warm red-orange tint. The deepest shadows on the crystal have a slight purple-to-dark-red gradient.
+
+Rich, dimensional, premium feel. High detail suitable for 1024px rendering. No text, no background elements. Transparent or white background. Single object, centered composition. Digital art style, gemstone illustration, polished and professional.
 ```
 
-```
-Recraft settings: Style → Realistic / Digital Art. Use "gemstone", "crystal", "obsidian", "volcanic glass" as style keywords.
-```
+---
 
 ### Treatment 2: Flat Color (Primary Logo)
 
-Clean vector, one step up from a silhouette.
+Clean vector for everyday use. SVG-friendly.
 
 ```
-[BASE SHAPE] rendered as a flat vector graphic. The body is solid dark stone (#1c1917) with a subtle lighter stone (#292524) on one facet to suggest dimension. The two crack lines are solid magma red-orange (#dc4a1a), uniform width, no glow. Clean sharp edges, no gradients, no texture. Transparent background. Suitable for SVG export, favicon, and small sizes.
+A volcanic obsidian shard rendered as a clean flat vector graphic, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The body is solid dark stone gray (#1c1917) with one facet filled in a slightly lighter stone (#292524) to suggest dimension. The two crack lines are solid magma red-orange (#dc4a1a), uniform width, no glow effect. Clean sharp edges, no gradients, no texture, no shadows, no reflections. Pure flat design. No text. Transparent background. Vector style, icon design, suitable for SVG export and recognition at small sizes like 32px.
 ```
 
-```
-Recraft settings: Style → Vector / Icon. Remove all texture and lighting effects. Export as SVG.
-```
+---
 
 ### Treatment 3: Detailed Flat (Mid-Detail)
 
-Between crystal and flat — has shading but stays vector-clean.
+Per-facet shading but stays vector-clean. Between crystal and flat.
 
 ```
-[BASE SHAPE] rendered as a detailed flat illustration. The body uses 3-4 shades of stone gray (#0c0c0c, #1c1917, #292524, #44403c) to define individual facets — each face of the shard is a slightly different tone, giving geometric depth without texture. The two crack lines glow magma (#dc4a1a) with a thin ember (#ef6c35) edge highlight. No surface texture or reflections — just clean flat color per facet. Transparent background.
+A volcanic obsidian shard rendered as a detailed flat illustration, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The body uses 3-4 shades of stone gray to define individual facets — each face of the shard is a slightly different tone (#0c0c0c, #1c1917, #292524, #44403c), giving geometric depth without any surface texture. The two crack lines are magma red-orange (#dc4a1a) with a thin ember orange (#ef6c35) edge highlight on one side. No surface texture, no reflections, no gradients within individual facets — just clean flat color per facet with sharp edges between them. No text. Transparent background. Flat digital illustration style.
 ```
 
-```
-Recraft settings: Style → Flat 2.0 or Digital Illustration. Keep facet distinction visible.
-```
+---
 
-### Treatment 4: Mono White (Line Art)
+### Treatment 4: Mono White Line Art
 
-For overlays on dark backgrounds, watermarks, loading screens.
+For dark backgrounds, overlays, watermarks, loading screens.
 
 ```
-[BASE SHAPE] rendered as a white line drawing on transparent background. Thin consistent stroke weight (~2px at 512px). All edges of the shard outlined in white. The two internal crack lines are thinner strokes. No fill — just outlines. The facet edges that define the crystal planes are visible as lighter interior lines. Clean, technical, blueprint-like.
+A volcanic obsidian shard rendered as a white line drawing on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+Thin consistent white stroke weight, approximately 2px at 512px resolution. All outer edges of the shard outlined in white. The two internal crack lines drawn as thinner white strokes. The facet edges that define the crystal planes are visible as even thinner interior lines. No fill anywhere — just white outlines and interior lines on transparent background. Clean, technical, minimalist. No text. Line art style, blueprint aesthetic.
 ```
 
-```
-Recraft settings: Style → Line Art / Outline. Color → White. Background → Transparent. Export as SVG with currentColor for recoloring.
-```
+---
 
-### Treatment 5: Mono Black (Silhouette)
+### Treatment 5: Mono Black Silhouette
 
 For light backgrounds, print, stamps, embossing.
 
 ```
-[BASE SHAPE] rendered as a solid black silhouette. The entire shard shape is filled solid black. The two crack lines are thin white negative-space cuts through the black fill. No other detail — just the silhouette with cracks. White or transparent background. Must be recognizable at 32px.
+A volcanic obsidian shard rendered as a solid black silhouette on a white background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The entire shard shape is filled solid black. The two crack lines are thin white negative-space cuts through the black fill — the only detail visible. No other interior detail, no facets, no gradients. Just the black silhouette with two white crack lines. Must be recognizable at 32px. No text. Silhouette style, stamp design, single color.
 ```
 
-```
-Recraft settings: Style → Silhouette / Stamp. Single color. Export as SVG.
-```
+---
 
-### Treatment 6: Mono Color Fill (Brand Color)
+### Treatment 6: Mono Magma Fill (Brand Color)
 
-Solid fill in the brand accent color — for colored backgrounds, merch.
+Solid fill in the brand accent — for merch, colored backgrounds, social.
 
 ```
-[BASE SHAPE] rendered as a solid fill in magma red-orange (#dc4a1a). The entire shard shape is one flat color. The two crack lines are darker (#b83a10) cuts through the fill. No other detail. Dark background (#0c0c0c). Also generate a version on transparent background.
+A volcanic obsidian shard rendered as a solid flat fill in magma red-orange (#dc4a1a) on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The entire shard shape is one flat magma red-orange color (#dc4a1a). The two crack lines are darker red (#b83a10) cuts through the fill. No other detail, no gradients, no texture. No text. Transparent background. Flat single-color design.
 ```
 
-```
-Recraft settings: Same as silhouette but with brand color instead of black.
-```
+---
 
-### Treatment 7: Outlined Fill (Badge Style)
+### Treatment 7: Outlined Fill (Badge / Sticker Style)
 
-Filled shape with a visible outline stroke — like the daily-notes-ng outlined version.
+Filled shape with visible outline — sticker, patch, badge feel.
 
 ```
-[BASE SHAPE] rendered as a filled shape in warm light purple-gray (#a8a29e) with a visible dark outline stroke (~3px at 512px) in near-black (#1c1917). The two crack lines are dark strokes matching the outline. Interior facet lines are thinner. Gives a sticker/badge/patch feel. Transparent background.
+A volcanic obsidian shard rendered as a filled shape with a visible dark outline, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The body is filled with a warm muted stone gray (#a8a29e). A visible dark outline stroke in near-black (#1c1917), approximately 3px at 512px resolution, traces the entire outer edge of the shard. The two crack lines are dark strokes matching the outline color and weight. Interior facet lines are thinner strokes in the same dark color. Gives a sticker, badge, or embroidered patch feel. No text. Transparent background.
 ```
 
-```
-Recraft settings: Style → Badge / Patch. Visible outline. Muted fill color.
-```
+---
 
-### Treatment 8: Dark Purple Variant (Obsidian Ecosystem)
+### Treatment 8: Two-Tone Stencil (Dark on Light)
 
-For contexts where you want to nod to the Obsidian purple ecosystem.
+High-contrast two-color stencil — for laser cutting, screen printing, spray paint stencil.
 
 ```
-[BASE SHAPE] rendered in the same crystal/gem style as Treatment 1, but the color palette shifts to deep purple. Body uses dark purple tones (#21144D, #2B1E60, #44287F, #583290) instead of stone grays. The crack lines glow in warm amber-orange (#f59e0b) rather than red-magma — creating contrast against the purple. Surface reflections have a subtle violet sheen. Premium, gem-like. Transparent background.
+A volcanic obsidian shard rendered as a high-contrast two-tone stencil design on a white background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+Only two colors: solid black and white. The shard body is black. The two crack lines and select facet divisions are white negative space cutting through the black. Some facets are filled black, adjacent ones are white, creating a stencil-cut pattern that suggests the crystal facets through alternating positive/negative space. Bold, graphic, high contrast. No gradients, no gray tones. Suitable for screen printing, laser cutting, or spray stencil. No text.
 ```
 
+---
+
+### Treatment 9: Two-Tone Stencil (Light on Dark)
+
+Inverted stencil for dark surfaces.
+
 ```
-Recraft settings: Same as Treatment 1 but shift palette to purple (#9768D0 family, matching daily-notes-ng).
+A volcanic obsidian shard rendered as a high-contrast two-tone stencil design on a black background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+Only two colors: solid white and black. The shard body is white. The two crack lines and select facet divisions are black negative space cutting through the white. Some facets are filled white, adjacent ones are black, creating a stencil-cut pattern that suggests the crystal facets through alternating positive/negative space. Bold, graphic, high contrast. No gradients, no gray tones. No text. Black background.
+```
+
+---
+
+### Treatment 10: Two-Tone Stencil (Magma on Dark)
+
+Brand-color stencil for marketing.
+
+```
+A volcanic obsidian shard rendered as a high-contrast two-tone stencil design on a dark stone background (#0c0c0c). The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+Only two colors: magma red-orange (#dc4a1a) and the dark background. The shard body is magma red-orange. The two crack lines and select facet divisions are dark negative space. Some facets are filled magma, adjacent ones are dark, creating a stencil-cut pattern. Bold, graphic, high contrast. No gradients. No text.
+```
+
+---
+
+### Treatment 11: Dark Purple Crystal Variant (Obsidian Ecosystem Nod)
+
+For contexts where you want to reference the Obsidian purple aesthetic.
+
+```
+A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The surface has faceted geometric planes catching light at different angles like a cut gemstone. The color palette is deep purple — faces use dark purple tones (#21144D, #2B1E60, #44287F, #583290) with lighter purple (#9768D0) on the brightest facets. The two crack lines glow with warm amber-orange (#f59e0b) light emanating from within, contrasting against the purple body. Surface reflections have a subtle violet sheen. The deepest shadows are near-black purple (#21144D).
+
+Rich, dimensional, premium gem-like feel. High detail suitable for 1024px rendering. No text, no background elements. Transparent or white background. Digital art style, amethyst crystal illustration.
 ```
 
 ---
