@@ -181,6 +181,62 @@ The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating fr
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
 ```
 
+#### Shape B2: Asymmetric Shield, Bold Lava River
+
+Asymmetric with a battle-worn notch. The main crack is a thick flowing lava channel — bold enough to be a standalone mark.
+
+```
+A volcanic obsidian shield rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad angular form — wider at the shoulders, tapering downward to a subtle point at the bottom, with a gently crowned top edge. Not perfectly symmetrical — the left shoulder is slightly higher and broader than the right, and the right edge has a deeper angular notch where a chunk has broken away, giving it an asymmetric, battle-worn character. 7-8 faceted crystal faces visible, each catching light differently. Portrait orientation, roughly 4:5, fits in a square frame.
+
+One bold, prominent crack runs from the upper-left shoulder down through the center and curves toward the lower-right — this is not a thin hairline but a wide, flowing lava channel, thick enough to be a recognizable mark on its own. The crack is wide enough that you can see deep into the magma beneath — glowing bright magma red-orange (#dc4a1a) at the center, ember orange (#ef6c35) at the edges, with hints of yellow-white (#f5c542) at the hottest point. A second thinner crack branches off the main one toward the right, like a tributary. The lava pattern should feel like a bold brushstroke or lightning bolt — something you could trace as a standalone icon.
+
+The crystal body faces are deep obsidian black (#0c0c0c) and dark stone gray (#1c1917, #292524). Polished volcanic glass with subtle specular highlights. The lava glow casts warm light onto adjacent facets. Deepest shadows have purple-to-dark-red gradient.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Shape B3: Shield with Single Dramatic Diagonal Slash
+
+One dominant crack — bold diagonal from top-right to bottom-left. Maximum iconic potential for two-tone.
+
+```
+A volcanic obsidian shield rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad angular shield form — wider at the shoulders, tapering to a subtle point at the bottom, with a slightly asymmetric crowned top. The left side is slightly more intact, the right side has more angular break texture along the edge. 7-8 faceted crystal faces. Portrait orientation, roughly 4:5, fits in a square frame.
+
+One single dramatic crack slashes diagonally across the entire shield from the upper-right to the lower-left — bold, wide, and unmistakable. This is the defining feature of the logo. The crack is wide enough to be a recognizable shape on its own — like a slash mark or lightning bolt cutting through the stone. It glows intensely with magma red-orange (#dc4a1a) at the core, ember orange (#ef6c35) bleeding outward, and a thin rim of bright amber (#f5c542) at the hottest center line. The crack widens slightly in the middle where the stone is weakest. No other major cracks — just this one bold slash.
+
+The crystal body is deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). Polished volcanic glass, faceted, with subtle specular highlights. The intense lava glow from the single slash illuminates the surrounding facets dramatically. Deepest shadows purple-dark-red.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Shape B4: Shield with Y-Shaped Lava System
+
+Three-branch crack forming a Y — trunk from bottom, splitting into two branches near top. Organic but structured. Very recognizable in two-tone.
+
+```
+A volcanic obsidian shield rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad angular shield form — wider at the shoulders, tapering to a subtle point at the bottom, slightly asymmetric with the right shoulder having a rough broken edge. 7-8 faceted crystal faces. Portrait orientation, roughly 4:5, fits in a square frame.
+
+A bold Y-shaped lava crack system runs through the shield — one main trunk rising from the lower center, splitting into two branches that spread toward the upper-left and upper-right shoulders. The trunk and branches are wide and bold, not thin fracture lines — think of a river viewed from above, or tree roots. The lava glows intensely: bright magma red-orange (#dc4a1a) in the channels, ember orange (#ef6c35) bleeding into adjacent stone, hints of bright amber (#f5c542) where the branches split. The Y-pattern is the signature mark — it should be instantly recognizable even as a flat two-tone silhouette.
+
+The crystal body is deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). Polished volcanic glass with faceted planes and specular highlights. The lava glow casts dramatic warm light onto all surrounding facets. Deepest shadows purple-dark-red.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Shape B5: Shield Splitting Apart (Horizontal Rift)
+
+The shield is cracking in half horizontally — top half separating from bottom with wide lava rift between. Suggests CRDT "split and merge."
+
+```
+A volcanic obsidian shield that is splitting apart horizontally, rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad angular shield form — but a wide horizontal rift runs across the middle, as if the shield is cracking in two. The top half has shifted very slightly upward and to the left, the bottom half slightly down and right — they're still mostly aligned but visibly separating. The gap between them is a bold, wide channel of exposed magma.
+
+The horizontal rift glows intensely with magma red-orange (#dc4a1a), ember orange (#ef6c35), and bright amber (#f5c542) — the widest and hottest part is at the center. A secondary thinner crack runs vertically through the upper half. The rift pattern is bold enough to serve as a standalone icon — a horizontal bar of fire through a dark shape.
+
+The crystal body on both halves: deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). Polished volcanic glass with faceted planes. The intense rift glow illuminates both halves dramatically from the center outward. Slightly asymmetric overall silhouette. Portrait orientation, fits in a square.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
 #### Shape C: Hexagonal Gem (Square, balanced)
 
 A roughly hexagonal gem shape — like a cut stone viewed from above. Balanced, fits perfectly in a square, no ambiguous orientation.
