@@ -167,16 +167,16 @@ The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating fr
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
 ```
 
-#### Shape B: Shield / Arrowhead (Portrait, strong silhouette)
+#### Shape B: Abstract Shield (Portrait, strong silhouette)
 
-A broad shield or arrowhead shape — like a volcanic glass arrowhead tool. Immediately iconic, fits in a square, portrait orientation.
+A broad abstract shield form — not a literal heraldic shield, but an angular protective shape carved from volcanic glass. Wide shoulders, tapered base, crowned top. Immediately iconic, fits in a square.
 
 ```
-A volcanic obsidian arrowhead rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad, symmetrical arrowhead or shield — pointed at the top, widening to angular shoulders, then tapering slightly to a flat or slightly pointed base. Like a hand-knapped obsidian tool or spearpoint. It has 6-8 faceted crystal faces visible from the front, each at slightly different angles catching light differently. The overall proportions fit cleanly within a square frame, portrait orientation.
+A volcanic obsidian shield rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad angular form — wider at the shoulders, tapering slightly downward to a subtle point at the bottom, with a gently pointed or crowned top edge. Not a literal heraldic shield — more like an abstract protective form carved from volcanic glass. The edges have subtle angular irregularity and small facet breaks, giving it natural crystal character while maintaining a clear, strong silhouette. It has 7-8 faceted crystal faces visible from the front, each at slightly different angles catching light differently. The overall proportions fit cleanly within a square frame, portrait orientation, roughly 4:5 width to height.
 
-Two visible crack lines run through the arrowhead — one from the tip down toward the lower-left, one shorter crossing it near the center. The surface has faceted geometric planes like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass texture with subtle specular highlights.
+Two visible crack lines run through the shield — one from upper-left sweeping down toward the lower-right, one shorter crossing it near the center. The surface has faceted geometric planes like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass texture with subtle specular highlights and reflections.
 
-The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within. Subtle ember orange (#ef6c35) highlights along crack edges. The glow illuminates nearby facets warm red-orange. Deepest shadows have purple-to-dark-red gradient.
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within, as if molten lava is visible through fractures in the stone. Subtle ember orange (#ef6c35) highlights along crack edges. The glow illuminates nearby facets warm red-orange. Deepest shadows have a slight purple-to-dark-red gradient.
 
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
 ```
