@@ -147,18 +147,32 @@ Follows the same approach as the [obsidian-daily-notes-ng logo set](https://gith
 
 ---
 
-### Treatment 1: Full Fidelity 3D Crystal (Hero Version)
+### Treatment 1A: Full Fidelity 3D Crystal — White Background
 
-The flagship logo. Faceted volcanic crystal gemstone with internal magma glow. Generate this at highest resolution.
+The flagship logo on white. Clean extraction, no glow bleed.
 
 ```
-A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a transparent background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a pure solid white background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
 
 The surface has faceted geometric planes catching light at different angles like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). The facets have subtle specular highlights and reflections — it looks like real carved volcanic glass, smooth and glassy on each face.
 
 The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within the crystal, as if molten lava is visible through fractures in the stone. Subtle ember orange (#ef6c35) highlights bloom along the crack edges. The glow illuminates nearby facets with a warm red-orange tint. The deepest shadows on the crystal have a slight purple-to-dark-red gradient.
 
-Rich, dimensional, premium feel. High detail suitable for 1024px rendering. No text, no background elements. Transparent or white background. Single object, centered composition. Digital art style, gemstone illustration, polished and professional.
+Rich, dimensional, premium feel. High detail suitable for 1024px rendering. No text, no background elements. Pure solid white background — not transparent, not gradient, not off-white. Single object, centered composition. Digital art style, gemstone illustration, polished and professional.
+```
+
+### Treatment 1B: Full Fidelity 3D Crystal — Black Background
+
+Same crystal, black background. The glow pops harder here.
+
+```
+A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a pure solid black background (#000000). The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
+
+The surface has faceted geometric planes catching light at different angles like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). The facets have subtle specular highlights and reflections — it looks like real carved volcanic glass, smooth and glassy on each face.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within the crystal, as if molten lava is visible through fractures in the stone. Subtle ember orange (#ef6c35) highlights bloom along the crack edges. The glow illuminates nearby facets with a warm red-orange tint and casts a faint red-orange ambient light onto the immediate black background around the cracks. The deepest shadows on the crystal have a slight purple-to-dark-red gradient.
+
+Rich, dimensional, premium feel. High detail suitable for 1024px rendering. No text, no other background elements. Pure solid black background — not transparent, not dark gray, not gradient. Single object, centered composition. Digital art style, gemstone illustration, polished and professional.
 ```
 
 ---
@@ -280,7 +294,7 @@ A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered o
 
 The surface has faceted geometric planes catching light at different angles like a cut gemstone. The color palette is deep purple — faces use dark purple tones (#21144D, #2B1E60, #44287F, #583290) with lighter purple (#9768D0) on the brightest facets. The two crack lines glow with warm amber-orange (#f59e0b) light emanating from within, contrasting against the purple body. Surface reflections have a subtle violet sheen. The deepest shadows are near-black purple (#21144D).
 
-Rich, dimensional, premium gem-like feel. High detail suitable for 1024px rendering. No text, no background elements. Transparent or white background. Digital art style, amethyst crystal illustration.
+Rich, dimensional, premium gem-like feel. High detail suitable for 1024px rendering. No text, no background elements. Pure solid white background — not transparent. Digital art style, amethyst crystal illustration.
 ```
 
 ---
