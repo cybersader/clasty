@@ -37,4 +37,4 @@ The mount orchestrator translates user identity (JWT claims + group membership) 
 
 ## Deep Dive
 
-For the full component catalog with comparison tables, tradeoffs, and alternative architectures, see the [Architecture Components](/openclast/knowledge-base/03-reference/architecture_components/) page in the Knowledge Base.
+For the full component catalog with comparison tables, tradeoffs, and alternative architectures, see the [Architecture Components](/knowledge-base/03-reference/architecture_components/) page in the Knowledge Base.

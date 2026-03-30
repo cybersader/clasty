@@ -5,15 +5,15 @@ import remarkMermaidjs from 'remark-mermaidjs';
 import wikiLinkPlugin from '@flowershow/remark-wiki-link';
 
 export default defineConfig({
-  site: 'https://cybersader.github.io/openclast',
-  base: '/openclast',
+  site: 'https://docs.openclast.com',
+  base: '/',
   markdown: {
     remarkPlugins: [
       remarkMermaidjs,
       [wikiLinkPlugin, {
         pathFormat: 'obsidian-short',
         wikiLinkClassName: 'internal-link',
-        hrefTemplate: (permalink) => `/openclast/${permalink}/`,
+        hrefTemplate: (permalink) => `/${permalink}/`,
       }],
     ],
   },
