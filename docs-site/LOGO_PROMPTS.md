@@ -272,6 +272,145 @@ No texture, no paint strokes, no atmospheric glow bleeding beyond the shape, no 
 
 ---
 
+---
+
+### Iconic Shape Concepts (Draw-It-From-Memory Simple)
+
+The test for an iconic logo: can you describe it in one sentence and someone could sketch it? "A rock with crack lines" = Obsidian. "A bitten apple" = Apple. "An octopus cat" = GitHub. What's the one-sentence version for OpenClast?
+
+#### Icon I1: Round Stone, C-Shaped Crack (O contains C)
+
+The stone is the O. The crack is the C. One shape, two letters, zero forced feeling.
+
+```
+A perfectly simple logo icon on a pure solid white background. A round, slightly irregular stone shape — like a smooth river stone or volcanic pebble, roughly circular. A bold C-shaped crack curves through the stone from the upper-right, around through the center, to the lower-right — the crack follows a C shape. The crack is wide enough to be the dominant visual feature. Through the crack, bright magma red-orange (#dc4a1a) glows from within.
+
+The stone body is solid obsidian black (#0c0c0c) with maybe one subtle facet line to suggest it's stone, not a circle. The overall silhouette is roughly circular, fitting perfectly in a square frame. Maximum simplicity — this should work as a single flat color where the C-crack is just white negative space through a dark circle. Recognizable at 16px.
+
+Clean, geometric, minimal. No texture, no painterly effects, no atmospheric glow outside the shape. Vector icon style. No text. Pure solid white background.
+```
+
+**Single-color test version:**
+```
+A solid black circular stone shape with a bold C-shaped white line cutting through it — curving from upper-right, through center, to lower-right. Nothing else. Pure black and white. The simplest possible version of this logo. Vector, minimal, icon design. White background.
+```
+
+#### Icon I2: C-Shaped Fragment (The Piece IS the Letter)
+
+A crescent/C-shaped piece of obsidian — broken off from a larger round stone. The fragment itself forms a C.
+
+```
+A simple logo icon on a pure solid white background. A C-shaped fragment of volcanic obsidian — like a crescent or arc-shaped piece of black stone that was broken off from a larger circular rock. The inner curve is a clean concave break, the outer curve follows the original stone's rounded edge. The shape clearly reads as the letter C while also clearly being a piece of broken stone. It has 3-4 clean facet planes to suggest crystal structure.
+
+A single thin crack line runs through the fragment with magma red-orange (#dc4a1a) glow. The stone body is obsidian black (#0c0c0c). The shape fits in a square frame. Simple enough to work as a single flat color at 16px — just a C-shaped dark form.
+
+Clean, geometric, minimal. Vector icon style. No text. Pure solid white background.
+```
+
+#### Icon I3: Cracked Hexagon (Simple Geometric + Crack)
+
+A hexagonal stone with ONE bold crack. The simplest possible "stone + crack" logo. Like Obsidian's approach but hexagonal.
+
+```
+A simple hexagonal stone icon on a pure solid white background. A regular hexagon shape, slightly irregular to feel like natural stone rather than a perfect geometric form — edges are straight but lengths vary slightly. One bold diagonal crack runs from the upper-left edge to the lower-right edge, slightly off-center. The crack is a clean straight line with one sharp angle change in the middle.
+
+The crack glows magma red-orange (#dc4a1a). The hexagon body is obsidian black (#0c0c0c). That's it — a hexagon with one crack. Nothing else. Must work as a single flat color (dark hexagon with white line) at 16px.
+
+Maximum simplicity. Vector icon, logo design, minimal. No text. Pure solid white background.
+```
+
+#### Icon I4: Split Circle — Two Halves (The Gap IS Everything)
+
+A circle split into two halves with a bold jagged gap. The simplest split-stone concept. Like a yin-yang but violent.
+
+```
+A simple logo icon on a pure solid white background. A circular stone split into two halves by a bold vertical jagged crack. The two halves are slightly separated — a visible gap between them. The gap follows a jagged lightning-bolt-like path from top to bottom. Through the gap, magma red-orange (#dc4a1a) glows.
+
+Both halves are obsidian black (#0c0c0c). The overall shape is circular, fitting perfectly in a square. The jagged gap line is the entire identity — in single flat color, it's two dark half-circles with a distinctive zigzag gap between them.
+
+Maximum simplicity. No facets, no texture, no extra cracks. Just a circle, split, with one iconic gap shape. Vector icon, logo design, minimal. No text. Pure solid white background.
+```
+
+#### Icon I5: Diamond with Slash (Maximum Geometric Clarity)
+
+A rotated square (diamond) with one bold diagonal slash through it. The most geometric option possible.
+
+```
+A simple diamond-shaped stone icon on a pure solid white background. A square rotated 45 degrees (diamond orientation) with slightly rough edges to suggest stone. One bold crack slashes diagonally through it — not corner-to-corner but slightly off-axis, creating asymmetry. The crack glows magma red-orange (#dc4a1a).
+
+The diamond body is obsidian black (#0c0c0c). Maximum geometric simplicity. Works as a single flat color at 16px — a dark diamond with one white diagonal line.
+
+Vector icon, logo design, minimal. No text. Pure solid white background.
+```
+
+#### Icon I6: Volcanic Droplet / Teardrop with Crack
+
+An inverted teardrop shape — like a lava drop or volcanic bomb. One bold crack. Unique silhouette, no one else has this.
+
+```
+A simple inverted teardrop-shaped stone icon on a pure solid white background. The shape is a smooth teardrop or volcanic bomb — pointed at the top, rounded at the bottom — made of obsidian black volcanic glass. One bold curved crack sweeps from the pointed tip down and around the body, glowing magma red-orange (#dc4a1a).
+
+The body is obsidian black (#0c0c0c) with one subtle facet to suggest stone. Fits in a square frame, portrait orientation. Works as single flat color at 16px — a dark teardrop with one curved white line.
+
+Vector icon, logo design, minimal. No text. Pure solid white background.
+```
+
+#### Icon I7: Open Bracket / Broken Ring
+
+A ring of stone broken open on one side — like a broken O, or an open bracket. The opening glows with lava. Reads as both "open" (the project is open source) and "clast" (broken fragment).
+
+```
+A simple logo icon on a pure solid white background. A thick ring of obsidian-black stone that is broken open on the right side — like a letter C or an open bracket carved from volcanic rock. The break point at the opening has jagged fractured edges. Through the opening and the fracture lines, magma red-orange (#dc4a1a) glows from within the ring's thickness.
+
+The ring is thick (about 25% of the total diameter), obsidian black (#0c0c0c). The opening is about 60-70 degrees of the circle. One thin crack line extends from the opening further around the ring. Fits perfectly in a square frame. Works as single flat color at 16px — a thick dark C-ring shape.
+
+The broken ring literally says "open clast" — an open (broken) fragment (clast). Vector icon, logo design, minimal. No text. Pure solid white background.
+```
+
+#### Iconic Grid: All Concepts Side by Side
+
+```
+A 2x4 grid of eight simple logo icon concepts on a pure solid white background. All are minimalist obsidian-black shapes with magma red-orange (#dc4a1a) glowing in cracks/gaps. Each should be EXTREMELY simple — recognizable at 16px as a single flat color.
+
+Row 1:
+Top-left (I1): Round stone with C-shaped crack glowing through it.
+Top-center (I2): C-shaped fragment of broken stone — the piece itself forms a C.
+Top-right (I3): Hexagon with one bold diagonal crack.
+Top-far-right (I4): Circle split into two halves with jagged vertical gap.
+
+Row 2:
+Bottom-left (I5): Diamond (rotated square) with one diagonal slash.
+Bottom-center (I6): Inverted teardrop/volcanic bomb with one curved crack.
+Bottom-right (I7): Thick broken ring — an open C-shape carved from stone.
+Bottom-far-right: Compact pentagonal stone with 2 bold crack lines (Obsidian logo style reference).
+
+All eight: maximum simplicity, vector icon style, minimal detail. Each fits in its own square cell.
+```
+
+#### Flat Single-Color Test Grid
+
+The real test — do they work with NO lava, NO color, just shape + negative space?
+
+```
+A 2x4 grid of eight simple logo silhouettes on a pure solid white background. All are solid black shapes with white negative-space lines representing cracks. No color, no gradients, no glow — just black shapes and white lines. Each must be recognizable and distinctive at this level of simplicity.
+
+Row 1:
+Top-left: Black circle with C-shaped white crack curving through it.
+Top-center: Black C-shaped crescent fragment.
+Top-right: Black hexagon with one diagonal white line.
+Top-far-right: Two black half-circles separated by a jagged white zigzag gap.
+
+Row 2:
+Bottom-left: Black diamond with one diagonal white slash.
+Bottom-center: Black inverted teardrop with one curved white line.
+Bottom-right: Thick black C-ring (broken circle) with jagged break edges.
+Bottom-far-right: Black pentagon with two bold white crack lines.
+
+All eight: pure black and white, vector silhouette, maximum simplicity. Logo design test sheet.
+```
+
+---
+
 #### Split Grid: All Split Concepts at Once
 
 ```
