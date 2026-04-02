@@ -274,6 +274,124 @@ No texture, no paint strokes, no atmospheric glow bleeding beyond the shape, no 
 
 ---
 
+### Shattered Core Concepts (Crystal Fragments Around Lava Center)
+
+The core idea: obsidian crystal fragments radiating outward from a glowing magma center — like a stone that exploded from the inside. The lava core is the heart, the fragments are the shell. One-sentence: "a cracked-open crystal with fire inside."
+
+Reference: The pendant-shaped version (tall point at top, wider base, 4-5 crystal shards around a bright lava center) is the starting point. These variations explore different proportions and fragment arrangements that would transfer well into flat/mono treatments.
+
+#### Core Grid: Proportion and Fragment Variations
+
+Generate all variations at once to compare.
+
+```
+A 3x3 grid of nine logo concepts on a pure solid black background. Each concept shows obsidian crystal fragments arranged around a glowing magma lava core — dark angular crystal shards radiating outward from a bright orange-red center. The crystal fragments are deep obsidian black with faceted surfaces and orange edge-glow from the lava. The lava core glows bright magma red-orange (#dc4a1a) at the edges and yellow-white (#fef08a) at the hottest center. Each variation differs in overall shape proportion and fragment count:
+
+Top-left: Pendant/teardrop shape — taller than wide, pointed at top, 5-6 crystal fragments. The original concept.
+Top-center: Same pendant but wider — stretched horizontally to roughly 1:1 square ratio. 5-6 fragments spread wider.
+Top-right: Wide shield shape — wider than tall, roughly 5:4 ratio. 5-6 fragments forming a broad protective shape around the core.
+
+Middle-left: Compact square — fragments arranged to fill a square frame evenly. 4 large fragments (top, bottom, left, right) with lava in the cross-shaped gaps between them.
+Middle-center: Diamond/rhombus — rotated 45 degrees, fragments forming a diamond shape with lava core at center. 4 main fragments at cardinal points.
+Middle-right: Hexagonal — 6 fragments arranged in a rough hexagon around the core, even spacing.
+
+Bottom-left: Minimal — only 3 large fragments (like a triangle arrangement) with large lava core visible. Maximum simplicity.
+Bottom-center: Asymmetric pendant — like top-left but one fragment is larger and one is smaller, giving it character and breaking perfect symmetry. Still pointed at top.
+Bottom-right: Circular — fragments arranged in a ring around the core, overall round silhouette. Like a volcanic eye.
+
+All nine: obsidian black crystal fragments with faceted surfaces, bright magma lava core, clean separation between fragments showing the glow. High detail. Each fits in its own square cell. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core C1: Pendant — Wider and Squarer
+
+The original pendant shape but pushed wider to approach a square ratio. Still has the top point but the shoulders are broader.
+
+```
+Obsidian crystal fragments arranged around a glowing magma lava core, forming a wide pendant shape on a pure solid black background. The overall silhouette is wider and more square than a typical pendant — roughly 4:5 width to height ratio, fitting cleanly in a square frame. A prominent crystal shard points upward at the top. 4-5 additional angular obsidian-black crystal fragments radiate outward from the center — two at the sides, one or two at the bottom. The fragments are large, clean, and geometric with faceted surfaces.
+
+Between and behind all the fragments, bright magma lava glows — red-orange (#dc4a1a) at the outer edges and yellow-white (#fef08a) at the hottest center point. The lava core is the heart of the shape. Orange edge-glow highlights the inner faces of each crystal fragment. The fragments are clearly separated from each other with visible lava-filled gaps.
+
+The key for transferability: the fragment arrangement and the gaps between them should create a distinctive silhouette that works as a single dark color with light gaps — even without the lava glow, just the fragment shapes with white negative space between them should read as an iconic mark.
+
+High detail, 1024px, no text. Pure solid black background. Single centered composition. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core C2: Compact Square — Four Fragments, Cross Gap
+
+Four large crystal fragments arranged in a plus/cross pattern with a glowing center. The gaps form a cross shape — extremely iconic in flat.
+
+```
+Four large obsidian crystal fragments arranged in a compact square formation around a glowing magma lava core on a pure solid black background. The four fragments sit at top, bottom, left, and right — like quadrants of a square that has been cracked apart. Each fragment is a large angular faceted piece of obsidian-black volcanic glass. The overall silhouette is roughly square, fitting cleanly in a square frame.
+
+The gaps between the four fragments form a cross or plus shape (+) through the center, with the brightest lava glow (#fef08a yellow-white) at the center intersection and red-orange (#dc4a1a) magma visible in all four channels. The cross-shaped gap IS the iconic element — in flat single color, four dark shapes with a bright cross between them.
+
+Each fragment has 2-3 clean faceted faces with subtle specular highlights. The inner edges of each fragment glow warm orange from the lava. Fragments are clearly separated but close enough to read as one unified shape.
+
+High detail, 1024px, no text. Pure solid black background. Single centered composition. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core C3: Asymmetric Pendant — Character Through Imbalance
+
+Like the original pendant but with deliberate asymmetry — one fragment is larger/taller, giving it personality. Avoids the "generic game icon" feel.
+
+```
+Obsidian crystal fragments arranged asymmetrically around a glowing magma lava core, forming a pendant shape on a pure solid black background. The top crystal shard points upward and leans slightly to the right. The left-side fragment is larger and taller than the right. The bottom fragment is wider and flatter. This deliberate asymmetry gives the shape character — it's clearly a specific mark, not a generic game asset. Overall proportions roughly 4:5, fitting in a square frame.
+
+5 crystal fragments total: one dominant upward point (top), one large piece (left), one medium piece (right), one wide piece (bottom), and one small accent piece tucked between. All deep obsidian-black with clean faceted surfaces. The gaps between fragments are varied in width — the largest gap is between the top point and the left fragment, creating a distinctive negative space shape.
+
+Bright magma lava core glows between all fragments — red-orange (#dc4a1a) at edges, yellow-white (#fef08a) at center. Orange glow on inner fragment faces. The lava fills all gaps and creates the visual connection between the pieces.
+
+High detail, 1024px, no text. Pure solid black background. Single centered composition. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core C4: Three-Fragment Minimal
+
+Maximum simplicity — only three large fragments. The less you have, the more iconic each piece becomes.
+
+```
+Three large obsidian crystal fragments arranged around a glowing magma lava core on a pure solid black background. Only three fragments — this is the minimal version. One tall pointed fragment at the top, one broad fragment at the lower-left, one medium fragment at the lower-right. Together they form a rough triangular/pendant silhouette, roughly square in proportion. The three fragments are large and have prominent clean faceted faces.
+
+The lava core is highly visible between the three pieces — bright yellow-white (#fef08a) at the center, red-orange (#dc4a1a) in the channels between fragments. With only three pieces, the lava shapes between them become prominent Y-shaped or triangular negative space — this is what makes it iconic in flat. Three dark shapes, bright gaps between them.
+
+Each fragment has 2-3 clean geometric facets in obsidian black (#0c0c0c) and dark stone (#1c1917). Orange edge-glow on inner faces. Clean separation between all three pieces.
+
+High detail, 1024px, no text. Pure solid black background. Single centered composition. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core C5: Wide Shield — Landscape-Friendly
+
+Wider than tall — good for horizontal logos, headers, social banners. The fragments form a broad protective crest.
+
+```
+Obsidian crystal fragments arranged in a wide shield or crest formation around a glowing magma lava core on a pure solid black background. The overall shape is wider than it is tall — roughly 5:4 or 3:2 ratio. Crystal fragments extend further to the left and right than upward. A modest point at the top center, prominent wing-like fragments at the sides, a flat or subtle-pointed base.
+
+5-6 angular obsidian-black crystal fragments with faceted surfaces. The wide format gives it a heraldic/crest energy without being a literal shield. Bright magma lava core glows in the center — red-orange (#dc4a1a) at edges, yellow-white (#fef08a) at the hottest center. The lava fills all gaps between fragments. Orange edge-glow on inner fragment faces.
+
+The key: this wider format works better as a horizontal logo lockup — the shape sits comfortably next to the "OpenClast" wordmark without being taller than the text.
+
+High detail, 1024px, no text. Pure solid black background. Single centered composition. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Core Flat Test Grid: Verify Transferability
+
+The real test — does the shattered-core concept work stripped of all lava glow, as pure shapes?
+
+```
+A 2x3 grid on a pure solid white background. Each cell shows the same obsidian-fragment-around-lava-core logo concept (use the pendant/square proportion you liked best) but rendered in a different treatment to test transferability:
+
+Top-left: Full 3D crystal on black — the reference version with lava glow, specular highlights, full detail.
+Top-center: Flat two-tone — fragments are solid dark gray (#1c1917), gaps/core are solid magma red-orange (#dc4a1a). No gradients, no glow, no 3D. Clean flat.
+Top-right: Flat single color — fragments are solid black, gaps/core are white negative space. ONLY black and white. This is the ultimate test — does the shape read?
+
+Bottom-left: White line art on black — just outlines of the fragments drawn in white on black background. No fill. Blueprint style.
+Bottom-center: Tiny 32px test — the flat single-color version rendered at approximately 32x32px scale. Can you still tell what it is?
+Bottom-right: Single color filled — the entire silhouette (fragments + core) as one solid shape, with the gaps between fragments as white cuts. Like a stencil. Does the gap pattern alone create a recognizable mark?
+
+All six in one grid. Logo design comparison sheet.
+```
+
+---
+
 ### Iconic Shape Concepts (Draw-It-From-Memory Simple)
 
 The test for an iconic logo: can you describe it in one sentence and someone could sketch it? "A rock with crack lines" = Obsidian. "A bitten apple" = Apple. "An octopus cat" = GitHub. What's the one-sentence version for OpenClast?
